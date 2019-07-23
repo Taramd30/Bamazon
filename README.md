@@ -14,7 +14,7 @@ Node.js & MySQL
 
 ## Screen shot Examples
 
-![Image 1](/Bamazon/bamazon1.png)
+![Image 1](/images/bamazon1.png)
 
 
-![Image 2](/Bamazon/bamazon2.png)
+![Image 2](/images/bamazon2.png)
