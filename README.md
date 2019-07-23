@@ -14,8 +14,8 @@ Node.js & MySQL
 
 ## Screen shot Examples
 
-![GitHub Logo](/images/bamazon1.png)
+![GitHub Logo](/Bamazon/bamazon1.png)
 Format: ![Alt Text](url)
 
-![GitHub Logo](/images/bamazon2.png)
+![GitHub Logo](/Bamazon/bamazon2.png)
 Format: ![Alt Text](url)
